@@ -15,8 +15,8 @@ I'm a developer with a knack for game dev and web design and have been developin
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dreigannadoit&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 100%; max-width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreigannadoit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 100%; max-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dreigannadoit&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 100%; max-width: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreigannadoit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 100%; max-width: 100px;" />
 </div>
 
 
