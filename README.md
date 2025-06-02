@@ -18,6 +18,8 @@ I'm a developer with a knack for game dev and web design. 🎮💻 Join me on my
 ---
 [![](https://visitcount.itsvg.in/api?id=Dreigannadoit&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
-<img src="https://raw.githubusercontent.com/Dreigannadoit/Dreigannadoit/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dreigannadoit/Dreigannadoit/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dreigannadoit/Dreigannadoit/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dreigannadoit/Dreigannadoit/output/github-snake.svg" />
+</picture>
