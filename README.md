@@ -30,11 +30,6 @@ I'm a developer with a knack for game dev and web design and have been developin
 </picture>
 
 
-<p align="center">
-  <iframe src="https://until-they-return.netlify.app/auth" width="600" height="400" frameborder="0"></iframe>
-</p>
-
-
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dreigannadoit&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
