@@ -2,7 +2,7 @@
 
 ### Greetings!, I'm Drei Abmab, a web/software/game dev
 
-I'm a developer with a knack for game dev and web design and have been developing since 2019 🎮💻 Join me on my tech journey! 🚀 #ITEnthusiast #GameDev #WebDev #StudentLife
+I'm a developer with a knack for game dev and web design and have been developing since 2019 🎮💻 Join me on my tech journey! 🚀 #ITEnthusiast #GameDev #WebDev #SoftwareDev #StudentLife
 
 
 ## Socials:
