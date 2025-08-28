@@ -34,3 +34,6 @@ I'm a developer with a knack for game dev and web design and have been developin
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dreigannadoit&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+"We are what we repeatedly do. Excellence, then, is not an act, but a habit.” — Aristotle
