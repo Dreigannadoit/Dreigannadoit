@@ -10,12 +10,8 @@ I'm a developer with a knack for game dev and web design and have been developin
 
 
 ## GitHub Stats:
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dreigannadoit&theme=dark&hide_border=false" />
-</p>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dreigannadoit&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dreigannadoit&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreigannadoit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
