@@ -1,8 +1,11 @@
-<img src="banner.jpg" alt="Banner" width="100%" />
 
-### Greetings!, I'm Drei Abmab, a web/software/game dev
+[<img src="banner.jpg" alt="Banner" width="100%" />](https://dreiabmab.com/)
 
-I'm a developer with a knack for game dev and web design and have been developing since 2019 🎮💻 Join me on my tech journey! 🚀 #ITEnthusiast #GameDev #WebDev #SoftwareDev 
+### [Greetings!, I'm Drei Abmab, a web/software/game dev](https://dreiabmab.com/)
+
+I'm a developer with a knack for game dev and web design and have been developing since 2019 Join me on my tech journey! #ITEnthusiast #GameDev #WebDev #SoftwareDev 
+
+[Visit My Website](https://dreiabmab.com/)
 
 
 ## Socials:
