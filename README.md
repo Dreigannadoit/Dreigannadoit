@@ -6,8 +6,6 @@ I'm a developer with a knack for game dev and web design and have been developin
 
 [Visit My Website](https://dreiabmab.com/)
 
-
-
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dreigonnadoit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-a-b-3b56311ab/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Dreigannadoit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dreiabmab@gmail.com) 
 
