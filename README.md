@@ -19,7 +19,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://discord.gg/dreigonnadoit">
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/>
@@ -45,30 +45,30 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 💻 Core
+### Core
 `JavaScript` • `TypeScript` • `Python` • `Java`
 
-### 🌐 Web
+### Web
 `React` • `Next.js` • `Vue` • `Express` • `Django` • `Spring Boot`
 
-### 🗄 Databases
+### Databases
 `MySQL` • `PostgreSQL` • `MongoDB` • `Oracle`
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 `Docker` • `GCP` • `Postman` • `Figma` • `Unity` • `Flutter`
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dreigannadoit/Dreigannadoit/output/github-snake.svg" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dreigannadoit&theme=apprentice&no-frame=true&no-bg=true&margin-w=6"/>
 </p>
