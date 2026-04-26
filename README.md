@@ -11,7 +11,6 @@
   Building scalable apps, crafting clean UI/UX, and exploring game development since 2019.
 </p>
 
-
 <p align="center">
   <a href="https://dreiabmab.com/"><strong>🌐 Portfolio</strong></a> •
   <a href="https://github.com/Dreigannadoit"><strong>💻 Projects</strong></a> •
