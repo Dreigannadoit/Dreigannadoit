@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Drei Abmab</h1>
-<h1 align="center">and I'm a</h1>
+<p align="center">and I'm a</p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Website+Dev;Game+Dev;Software+Dev;Cloud+Dev;DevOps;Security+Oriented+Dev)](https://git.io/typing-svg)
 
 <p align="center">
