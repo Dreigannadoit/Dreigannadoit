@@ -4,17 +4,18 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Drei Abmab</h1>
-<h3 align="center">Web • Software • Game Developer</h3>
+<h1 align="center">Hi, I'm Drei Abmab</h1>
+<h1 align="center">and I'm a</h1>
+<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Website+Dev;Game+Dev;Software+Dev;Cloud+Dev;DevOps;Security+Oriented+Dev)](https://git.io/typing-svg)</h1>
 
 <p align="center">
   Building scalable apps, crafting clean UI/UX, and exploring game development since 2019.
 </p>
 
 <p align="center">
-  <a href="https://dreiabmab.com/"><strong>🌐 Portfolio</strong></a> •
-  <a href="https://github.com/Dreigannadoit"><strong>💻 Projects</strong></a> •
-  <a href="mailto:dreiabmab@gmail.com"><strong>📩 Contact</strong></a>
+  <a href="https://dreiabmab.com/"><strong>Portfolio</strong></a> •
+  <a href="https://github.com/Dreigannadoit"><strong>Projects</strong></a> •
+  <a href="mailto:dreiabmab@gmail.com"><strong>Contact</strong></a>
 </p>
 
 ---
