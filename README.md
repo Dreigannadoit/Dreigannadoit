@@ -38,5 +38,5 @@
   <img src="https://raw.githubusercontent.com/Dreigannadoit/Dreigannadoit/output/github-snake.svg" />
 </p>
 
-### Random Dev Quote
+### Dev Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
