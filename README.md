@@ -26,8 +26,9 @@
 
 
 # GitHub Stats:
-![](https://streak-stats.demolab.com/?user=Dreigannadoit&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github.com/Dreigannadoit/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://streak-stats.demolab.com/?user=Dreigannadoit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dreigannadoit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
