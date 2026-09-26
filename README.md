@@ -7,7 +7,6 @@
 <h1>Hi, I'm Drei Abmab</h1>
 <p>and I'm a</p>
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=435&lines=Website+Dev;Game+Dev;Software+Dev;Cloud+Dev;DevOps;Security+Oriented+Dev)](https://git.io/typing-svg)
 
 <p>
