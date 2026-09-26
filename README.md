@@ -1,4 +1,4 @@
-w<p align="center">
+<p align="center">
   <a href="https://dreiabmab.com/">
     <img src="banner.jpg" alt="Banner" width="100%" />
   </a>
